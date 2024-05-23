@@ -22,7 +22,4 @@ Keydeck Version '...'
 Keydeck Framework Version '....'
 
 **Plugin**
-Paste the plugin below
-```python
-
-```
+Attach the plugin file below
