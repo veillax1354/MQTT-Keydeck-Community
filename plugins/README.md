@@ -1,2 +1,2 @@
 # Plugins
-Community Plugins
+Community-provided Plugins
